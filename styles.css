@@ -14,7 +14,7 @@
 .item3{
 	background-color:blue;
 }
-.flex{
+.holder{
 	display:flex;
 	align-item:center;
 	justify-content:center;
